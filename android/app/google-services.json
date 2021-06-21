@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418211521447",
+    "project_id": "sparkapp-65205",
+    "storage_bucket": "sparkapp-65205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418211521447:android:d4173e24c5cffb5a16cc82",
+        "android_client_info": {
+          "package_name": "com.example.sparkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418211521447-ak4q80q5v7kqgqd7ke8k15m04og6fdlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wcsV_NTKZek7_OcSKoAUQFVct8LJykA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418211521447-ak4q80q5v7kqgqd7ke8k15m04og6fdlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
